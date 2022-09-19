@@ -16,7 +16,6 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Nodejs](https://nodejs.org/en/)
-- [Mailtrap](https://mailtrap.io/)
 - [Express](https://expressjs.com/pt-br/)
 - [Typescript](https://www.typescriptlang.org/)
 - [PRISMA](https://www.prisma.io/)
